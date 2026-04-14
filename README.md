@@ -1,0 +1,1 @@
+# Szakdolgozat mobilalkalmazás-fejlesztés témában
