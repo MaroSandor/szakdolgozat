@@ -9,3 +9,9 @@
 7. []()
 8. [JwtSecret Generator](https://jwtsecrets.com/#google_vignette)
 9. [Project Lombok](https://projectlombok.org/features/)
+
+# Haosnló mobilalkalmazások linkjei
+
+1. [AutóŐrszem](https://play.google.com/store/apps/details?id=hu.autoorszem.app&gl=HU)
+2. [FixMyStreet Mobil](https://play.google.com/store/apps/details?id=org.mysociety.FixMyStreet&hl=en)
+3. 

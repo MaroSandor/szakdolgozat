@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:dea.lib.unideb.hu)",
+      "Bash(go mod *)"
+    ]
+  }
+}

@@ -18,4 +18,6 @@ public class ReportResponse {
     private boolean isAnonymous;
     private String username;
     private LocalDateTime createdAt;
+
+    
 }
